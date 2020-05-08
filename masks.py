@@ -74,14 +74,6 @@ class Masks():
 
         return mask
 
-        # print(mask.shape)
-        # mask = pool2D(mask)
-        # mask = np.expand_dims(mask, axis = 2)
-        # print(mask.shape)
-        # mask = np.expand_dims(mask, axis = 0)
-        # print(mask.shape)
-        # return mask
-
     @staticmethod
     def get_random_mask(h,w):
         f = random.choice([Masks.get_box_mask, Masks.get_ca_mask, Masks.get_ff_mask]) 
