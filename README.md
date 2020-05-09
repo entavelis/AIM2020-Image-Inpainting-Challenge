@@ -42,5 +42,6 @@ Competition
 The training data is already made available to the registered participants.
 Provided Resources
 
-    Scripts: With the dataset the organizers will provide scripts to facilitate the reproducibility of the images and performance evaluation results after the validation server is online. More information is provided on the data page.
-    Contact: You can use the forum on the data description page (highly recommended!) or directly contact the challenge organizers by email (Evangelos Ntavelis <entavelis@ethz.ch>, Siavash Bigdeli <siavash.bigdeli@csem.ch>, Andres Romero <roandres@ethz.ch> and Radu Timofte <Radu.Timofte [at] vision.ee.ethz.ch>) if you have doubts or any question.
+Scripts: With the dataset the organizers will provide scripts to facilitate the reproducibility of the images and performance evaluation results after the validation server is online. More information is provided on the data page.
+
+Contact: You can use the forum on the data description page (highly recommended!) or directly contact the challenge organizers by email (Evangelos Ntavelis <entavelis@ethz.ch>, Siavash Bigdeli <siavash.bigdeli@csem.ch>, Andres Romero <roandres@ethz.ch> and Radu Timofte <Radu.Timofte [at] vision.ee.ethz.ch>) if you have doubts or any question.
