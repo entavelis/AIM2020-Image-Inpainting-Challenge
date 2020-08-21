@@ -1,4 +1,4 @@
-# AIM2020 Image Inpainting Challenge
+# AIM2020 Challenge on Extreme Image Inpainting Challenge
 
 AIM Workshop and Challenges @ ECCV 2020
  
