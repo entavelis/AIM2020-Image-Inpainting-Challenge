@@ -65,12 +65,7 @@ class Masks():
         if scale > 1:
             struct = ndimage.generate_binary_structure(2, 1)
             mask = ndimage.morphology.binary_dilation(mask, struct)
-        elif scale > 3:
-            struct = np.array([[ 0.,  0.,  1.,  0.,  0.],
-                            [ 0.,  1.,  1.,  1.,  0.],
-                            [ 1.,  1.,  1.,  1.,  1.],
-                            [ 0.,  1.,  1.,  1.,  0.],
-                            [ 0.,  0.,  1.,  0.,  0.]])
+
 
         return mask
 
