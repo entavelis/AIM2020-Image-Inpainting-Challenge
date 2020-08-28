@@ -1,6 +1,39 @@
 # AIM2020 Challenge on Extreme Image Inpainting
 
-AIM Workshop and Challenges @ ECCV 2020
+###Data access
+
+By accessing the data the participants implicitly agree with the terms and conditions of the challenge.
+
+ 
+###Data overview
+
+We are using a partition of ADE20k dataset with a large diversity of contents. For this track only the images are to be used. The use of any other additional information (semantics, object instances) is not allowed.
+
+The dataset is divided into:
+
+    train data
+    validation data
+    test data
+
+We provide the name of the images of the ADE20k's training set that are to be used for training. For validation a subset of the ADE20k's validation set will be used. The testing set will be comprised of both images from ADE20k and additional sources.
+Masks
+
+For this competition we are using three different types of masks:
+
+- Rectangular masks with width and height between 30-70% of each dimension
+
+- Randomly drawn brush strokes as used in generative inpainting repository
+
+- Our own method for generating masks based on cellural automata (see the masks.py in the download link below)
+
+###Download
+
+Please use the following link to find the names of the 10330 images to be used for training under the text file name new_image_names.txt. A mask generation script in python can be found in the file masks.py.
+
+You can optionally use the script to download and decompress the ADE20k dataset we provide.
+
+
+##AIM Workshop and Challenges @ ECCV 2020
  
 Image Inpainting Challenge
 Important dates
