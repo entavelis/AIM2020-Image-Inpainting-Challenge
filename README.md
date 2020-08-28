@@ -34,10 +34,9 @@ Please use the following link to find the names of the 10330 images to be used f
 You can optionally use the script to download and decompress the ADE20k dataset we provide.
 
 
-## AIM Workshop and Challenges @ ECCV 2020
- 
-Image Inpainting Challenge
-Important dates
+## AIM Workshop and Challenges @ ECCV 2020 - Image Inpainting Challenge
+
+### Important dates
 
     2020.05.08 Release of train data (input and output images) and validation data (only input)
     2020.05.15 Validation server online
@@ -48,7 +47,7 @@ Important dates
     2020.07.22 Paper submission deadline for entries from the challenge
     2020.08.28 AIM workshop and challenges, results and award ceremony (ECCV 2020, Glasgow, UK)
 
-Challenge overview
+### Challenge overview
 
 The 2nd edition of AIM: Advances in Image Manipulation workshop will be held August 28, 2020 in conjunction with ECCV 2020 in Glasgow, UK.
 
