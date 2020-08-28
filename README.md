@@ -16,7 +16,8 @@ The dataset is divided into:
     test data
 
 We provide the name of the images of the ADE20k's training set that are to be used for training. For validation a subset of the ADE20k's validation set will be used. The testing set will be comprised of both images from ADE20k and additional sources.
-Masks
+
+### Masks
 
 For this competition we are using three different types of masks:
 
