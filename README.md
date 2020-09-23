@@ -77,4 +77,7 @@ Provided Resources
 
 Scripts: With the dataset the organizers will provide scripts to facilitate the reproducibility of the images and performance evaluation results after the validation server is online. More information is provided on the data page.
 
-Contact: You can use the forum on the data description page (highly recommended!) or directly contact the challenge organizers by email (Evangelos Ntavelis <entavelis [at] ethz.ch>, Siavash Bigdeli <siavash.bigdeli@ [at] sem.ch>, Andres Romero <roandres [at] ethz.ch> and Radu Timofte <Radu.Timofte [at] vision.ee.ethz.ch>) if you have doubts or any question.
+Contact: You can use the forum on the data description page (highly recommended!) or directly contact the challenge organizers by email (Evangelos Ntavelis <entavelis [at] ethz.ch>, Siavash Bigdeli <siavash.bigdeli [at] sem.ch>, Andres Romero <roandres [at] ethz.ch> and Radu Timofte <Radu.Timofte [at] vision.ee.ethz.ch>) if you have doubts or any question.
+
+
+This Challenge was organized by [ETH Zurich - Computer Vision Lab](vision.ee.ethz.ch) and  [CSEM SA](csem.ch) 
