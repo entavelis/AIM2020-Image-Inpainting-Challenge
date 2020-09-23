@@ -80,4 +80,4 @@ Scripts: With the dataset the organizers will provide scripts to facilitate the 
 Contact: You can use the forum on the data description page (highly recommended!) or directly contact the challenge organizers by email (Evangelos Ntavelis <entavelis [at] ethz.ch>, Siavash Bigdeli <siavash.bigdeli [at] sem.ch>, Andres Romero <roandres [at] ethz.ch> and Radu Timofte <Radu.Timofte [at] vision.ee.ethz.ch>) if you have doubts or any question.
 
 
-This Challenge was organized by [ETH Zurich - Computer Vision Lab](https://vision.ee.ethz.ch) and  [CSEM SA](https://csem.ch) 
+This Challenge was organized by [ETH Zurich - Computer Vision Lab](https://vision.ee.ethz.ch) and  [CSEM SA](https://www.csem.ch/Home) 
